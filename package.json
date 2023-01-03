@@ -1,0 +1,25 @@
+{
+  "name": "get-address",
+  "version": "1.0.0",
+  "description": "Get a random business address of any country ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pthapa1/get-address.git"
+  },
+  "keywords": [
+    "retrieved",
+    "stored",
+    "address"
+  ],
+  "author": "Pratik Thapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pthapa1/get-address/issues"
+  },
+  "homepage": "https://github.com/pthapa1/get-address#readme"
+}

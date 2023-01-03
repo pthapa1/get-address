@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Radisson Hotel & Conference Centre Oslo Airport",
+    "address": "Hotellgatan 1, 311 31 Falkenberg, Sweden",
+    "phone": "+4634614450"
+  },
+  {
+    "name": "Hilton Stockholm Slussen",
+    "address": "Frösundaviks allé 15, 169 03 Solna, Sweden",
+    "phone": "+4686245500"
+  },
+  {
+    "name": "Scandic Continental",
+    "address": "Strandvägen 7C, 114 56 Stockholm, Sweden",
+    "phone": "+4684596800"
+  },
+  {
+    "name": "Radisson Blu Royal Park Hotel, Stockholm Solna",
+    "address": "Stora Torget 7, 721 03 Västerås, Sweden",
+    "phone": "+4621102800"
+  },
+  {
+    "name": "Radisson Blu Waterfront Hotel, Stockholm",
+    "address": "Henrik Ibsens veg (B, 2060 Gardermoen, Norway",
+    "phone": "+4767024000"
+  },
+  {
+    "name": "Grand Hotel Falkenberg",
+    "address": "Nils Ericsons Plan 4, 111 64 Stockholm, Sweden",
+    "phone": "+46850506000"
+  },
+  {
+    "name": "Sheraton Stockholm Hotel",
+    "address": "Tegelbacken 6, Box 195, 101 23 Stockholm, Sweden",
+    "phone": "619510123"
+  },
+  {
+    "name": "Hotel Diplomat",
+    "address": "Guldgränd 8, 104 65 Stockholm, Sweden",
+    "phone": "+46851735300"
+  },
+  {
+    "name": "Elite Stadshotellet Vasteras",
+    "address": "Vasagatan 22, 111 20 Stockholm, Sweden",
+    "phone": "+46851734200"
+  },
+  {
+    "name": "Clarion Hotel Stockholm",
+    "address": "Arsenalsgatan 6, 111 47 Stockholm, Sweden",
+    "phone": "+46859858000"
+  },
+  {
+    "name": "Hôtel Reisen - The Unbound Collection by Hyatt",
+    "address": "Stationsgatan 44, 302 45 Halmstad, Sweden",
+    "phone": "+46352808100"
+  },
+  {
+    "name": "Best Western Hotel Svava",
+    "address": "Bangårdsgatan 24, 753 20 Uppsala, Sweden",
+    "phone": "+4618130030"
+  },
+  {
+    "name": "Tree Hotel",
+    "address": "Ringvägen 98, 118 60 Stockholm, Sweden",
+    "phone": "+4684621000"
+  },
+  {
+    "name": "Hotel Rival",
+    "address": "Mariatorget 3, 118 48 Stockholm, Sweden",
+    "phone": "+46854578900"
+  }
+]
